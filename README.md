@@ -4,7 +4,7 @@
 <p>Using the Green Scenario included, produce a technical report and accompanying Java GUI application, simulating control of the ball moving (navigated) around the maze using left, right, up and down buttons/keys.</p>
 <p>The problem is designed to be open within the rules below, to enable you to develop your solution(s) to the problem.<p>
 
-<h2>Objectives<h2>
+<h2>Objectives</h2>
 
 <p>Rules (Basic) Create a simulation of the ball moving around the pitch, where:<p>
   <ul>
